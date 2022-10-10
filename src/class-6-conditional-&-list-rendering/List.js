@@ -38,7 +38,7 @@ const productListContainer = {
 function List() {
   return (
     <div>
-        List
+        List Items
 
         <div
             style={productListContainer}
