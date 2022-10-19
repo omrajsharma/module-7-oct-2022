@@ -6,6 +6,7 @@ import List from "./class-6-conditional-&-list-rendering/List";
 import UseEffect from './class-7-8-useEffect-promises/UseEffect';
 import Promise from './class-7-8-useEffect-promises/Promise';
 import Child from './class-useContext/Child';
+import ChildRef from './class-useRef/ChildRef';
 
 import OmContext from './context'
 import Reducer from './class-useReducer/Reducer';
@@ -26,8 +27,9 @@ function App() {
         {/* <UseEffect /> */}
         {/* <Promise /> */}
         {/* <Child /> */}
+        {/* <Reducer/> */}
 
-        <Reducer/>
+        <ChildRef />
 
 
       </div>
